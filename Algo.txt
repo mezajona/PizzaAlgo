@@ -3,3 +3,7 @@ Decide what style of pizza you want
 Decide what toppings you want
 Decide the size of pizza you want
 Order the pizza
+Wait for the driver
+Get the pizza from the driver
+Tip the driver
+Eat the pizza

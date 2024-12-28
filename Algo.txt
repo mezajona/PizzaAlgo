@@ -1,0 +1,5 @@
+Decide where you want to order pizza from
+Decide what style of pizza you want
+Decide what toppings you want
+Decide the size of pizza you want
+Order the pizza
